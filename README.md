@@ -1,2 +1,1 @@
-# OfficialBRVCToken
-Official BRVC Token
+# Official BRVC Token
