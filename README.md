@@ -13,7 +13,7 @@ Some aspects of token utility, distribution, governance, and ecosystem integrati
 ## Current BRVC Token
 
 The current Solana BRVC token can be viewed through the repository's official DEX link here:
-https://dexscreener.com/solana/13fUtfvg8y8vearwQCNBez7mERBoBVNebuvdfhAkrjLd
+https://dexscreener.com/solana/DWovnBnHM95fmKgWZ7WqKPdtjxt3oRDGaMd7XPvHkNrB
 
 Further documentation regarding its role within the future BRVC ecosystem will be added as development progresses.
 
