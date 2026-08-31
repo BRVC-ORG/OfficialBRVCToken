@@ -1,8 +1,7 @@
-# Official BRVC Token
+31 August
 
-The official repository for the development and documentation of the BRVC Token ecosystem.
-
-This repository is intended to provide a transparent public record of discussions, proposals, token design decisions, community participation models, and future utility development related to BRVC.
+- Updated URL
+    - https://dexscreener.com/solana/dwovnbnhm95fmkgwz7wqkpdtjxt3ordgamd7xpvhknrb
 
 ## Current Status
 
